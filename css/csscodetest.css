@@ -1,0 +1,153 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif !important;
+}
+
+
+/*navbar*/
+
+.nav-link {
+  display: inline-block !important;
+  float: right;
+}
+
+.navbar1 li {
+  float: right !important;
+}
+
+.navbar2 {
+  background-color: #D3D3D3;
+}
+
+.navbar {
+  width: 100% !important;
+}
+
+.navbartopright {
+  float: right;
+}
+
+input {
+  width: 300px;
+}
+
+
+/*images*/
+
+.portraitimg {
+  width: 100%;
+  height: auto;
+}
+
+.portrait {
+  text-align: center;
+}
+
+.whiteicon {
+  fill: white;
+}
+
+.contactsvg {
+  fill: teal;
+}
+
+.svg {
+  position: relative;
+  display: inline-block;
+}
+
+div.contact {
+  display: table;
+}
+
+.contactdetail {
+  padding: 5px;
+  display: table-cell;
+}
+
+ul.social {
+  text-align: center;
+}
+
+.teal {
+  background-color: teal;
+  color: white;
+}
+
+.searchbutton {
+  float: left
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block !important;
+}
+
+.ltgreyrow {
+  background-color: #e9e9e9;
+}
+
+a.contactdetails {
+  color: teal !important;
+  padding: 10px;
+}
+
+.socialicon {
+  padding: 5px;
+}
+
+.sociallink {
+  padding: 10px
+}
+
+.socialiconsblack {
+  fill: black;
+}
+
+.social {
+  padding: 20px;
+  text-align: center;
+}
+
+.sociallink2 {
+  padding-left: 10px;
+  padding-right: 10px;
+  border-color: white !important;
+}
+
+.realestate {
+  margin-top: 10px;
+}
+
+
+/*footer*/
+.footer {
+  bottom: 0;
+  width: 100%;
+  background: teal !important
+}
+
+.footercontact {
+  color: white !important;
+}
+
+.footerlink {
+  color: white !important;
+  margin: 10px 5px 5px 0px;
+  text-decoration: underline;
+}
+
+.legal {
+  margin-top: 10px;
+  text-align: right;
+}
+
+.copyright {
+  color: white;
+}
+
+.socialiconswhite {
+  fill: white;
+}
